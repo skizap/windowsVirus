@@ -1,0 +1,98 @@
+﻿  stdafx.cpp
+  setkeyhook.cpp
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(33): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(57): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(46): warning C4101: “a”: 未引用的局部变量
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(45): warning C4101: “b”: 未引用的局部变量
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(45): warning C4101: “c”: 未引用的局部变量
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(63): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(135): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(137): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(139): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(144): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(148): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(152): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(156): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(160): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(164): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(168): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(175): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(180): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(185): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(188): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(194): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(196): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(198): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(202): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(211): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\setkeyhook.cpp(221): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+  mail.cpp
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(29): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(54): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(55): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(59): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(60): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(73): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(77): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(79): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(228): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(236): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(245): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(247): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(256): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(258): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(268): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(275): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(282): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(289): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(295): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(302): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(202): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(213): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(220): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\visual studio project\setkeyhook\setkeyhook\mail.cpp(222): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+  正在生成代码...
+  setkeyhook.vcxproj -> D:\visual Studio project\setkeyhook\x64\Debug\setkeyhook.exe
