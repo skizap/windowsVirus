@@ -1,5 +1,0 @@
-﻿Source.def(1): warning LNK4017: EXPORT 语句不支持目标平台；已忽略
-Source.def(2): warning LNK4017: StartHook 语句不支持目标平台；已忽略
-Source.def(2): warning LNK4017: StopHook 语句不支持目标平台；已忽略
-    正在创建库 D:\visual Studio project\keyboard\Debug\keyboard.lib 和对象 D:\visual Studio project\keyboard\Debug\keyboard.exp
-  keyboard.vcxproj -> D:\visual Studio project\keyboard\Debug\keyboard.dll
